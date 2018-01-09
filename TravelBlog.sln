@@ -1,7 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelBlog", "TravelBlog\TravelBlog.csproj", "{90E9AB1B-00E9-4F0A-82FF-8922CA6A4B18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rename", "TravelBlog\Rename.csproj", "{90E9AB1B-00E9-4F0A-82FF-8922CA6A4B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rename.Tests", "Rename.Tests\Rename.Tests.csproj", "{A78569EF-C33F-43D9-904B-37CB46736D56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +15,9 @@ Global
 		{90E9AB1B-00E9-4F0A-82FF-8922CA6A4B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90E9AB1B-00E9-4F0A-82FF-8922CA6A4B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90E9AB1B-00E9-4F0A-82FF-8922CA6A4B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78569EF-C33F-43D9-904B-37CB46736D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78569EF-C33F-43D9-904B-37CB46736D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78569EF-C33F-43D9-904B-37CB46736D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78569EF-C33F-43D9-904B-37CB46736D56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
